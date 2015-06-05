@@ -20,6 +20,6 @@
     </head>
 
     <body>
-        <iframe id="iframe1" src="index.php" frameborder="0"></iframe>
+        <iframe id="iframe1" src="https://justyouneed.eu/wp-content/themes/just-landing/images/help/" frameborder="0"></iframe>
     </body>
 </html>
